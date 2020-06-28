@@ -4,3 +4,9 @@
 [submodule "GamePad-KiCad/random-keyboard-parts.pretty"]
 	path = GamePad-KiCad/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "GamePad-KiCad/Keebio-Parts.pretty"]
+	path = GamePad-KiCad/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "GamePad-KiCad/keebio-components"]
+	path = GamePad-KiCad/keebio-components
+	url = https://github.com/keebio/keebio-components.git
